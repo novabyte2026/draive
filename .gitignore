@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+cookies*.txt
+*.mp3
+*.mp4
+*.part
+node_modules/

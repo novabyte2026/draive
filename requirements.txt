@@ -1,0 +1,3 @@
+# Fetch the current extractor on each integration run: YouTube changes frequently.
+# The default extras include the matching yt-dlp-ejs challenge solver package.
+yt-dlp[default]
